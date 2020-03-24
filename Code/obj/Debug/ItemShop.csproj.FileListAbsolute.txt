@@ -1,0 +1,6 @@
+C:\Users\Keviner123\source\repos\burner1\burner1\bin\Debug\ItemShop.exe.config
+C:\Users\Keviner123\source\repos\burner1\burner1\bin\Debug\ItemShop.exe
+C:\Users\Keviner123\source\repos\burner1\burner1\bin\Debug\ItemShop.pdb
+C:\Users\Keviner123\source\repos\burner1\burner1\obj\Debug\ItemShop.exe
+C:\Users\Keviner123\source\repos\burner1\burner1\obj\Debug\ItemShop.pdb
+C:\Users\Keviner123\source\repos\burner1\burner1\obj\Debug\ItemShop.csprojAssemblyReference.cache

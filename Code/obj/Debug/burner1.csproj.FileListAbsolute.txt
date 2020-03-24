@@ -1,0 +1,6 @@
+C:\Users\Keviner123\source\repos\burner1\burner1\obj\Debug\burner1.csprojAssemblyReference.cache
+C:\Users\Keviner123\source\repos\burner1\burner1\bin\Debug\burner1.exe.config
+C:\Users\Keviner123\source\repos\burner1\burner1\bin\Debug\burner1.exe
+C:\Users\Keviner123\source\repos\burner1\burner1\bin\Debug\burner1.pdb
+C:\Users\Keviner123\source\repos\burner1\burner1\obj\Debug\burner1.exe
+C:\Users\Keviner123\source\repos\burner1\burner1\obj\Debug\burner1.pdb
